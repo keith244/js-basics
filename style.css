@@ -1,0 +1,14 @@
+ol{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    list-style: none;
+}
+
+ol li{
+    width: 30%;
+    margin: 1%;
+    box-sizing: border-box;
+    background-color: rgb(0, 255, 106);
+    text-align: center;
+}
